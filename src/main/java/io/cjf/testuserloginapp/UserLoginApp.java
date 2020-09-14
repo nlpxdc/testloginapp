@@ -7,5 +7,6 @@ public class UserLoginApp {
         String myError = ExceptionConstant.MY_ERROR;
         String youError = ExceptionConstant.YOU_ERROR;
         String taError = ExceptionConstant.TA_ERROR;
+        System.out.println(taError);
     }
 }
